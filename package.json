@@ -1,6 +1,7 @@
 {
   "name": "RefugeeStories",
   "version": "1.0.0",
+  
   "description": "Refugee Stories Back End",
   "main": "index.js",
   "repository": "git@github.com:refugee-stories/brandon-gardner-backend.git",
